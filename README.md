@@ -3,7 +3,7 @@
 
 Graphic interface to keep count of your library.
 
-![alt text](https://github.com/Py4Rpi/Bookkeeper-win/blob/master/screen2.jpg)
+![alt text](https://github.com/Py4Rpi/Bookkeeper-linux/blob/master/screen.jpg)
 
 ## Description
 
